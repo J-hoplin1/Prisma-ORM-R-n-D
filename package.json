@@ -1,0 +1,17 @@
+{
+  "name": "Prisma-ORM-R-n-D",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/J-hoplin1/Prisma-ORM-R-n-D.git",
+  "author": "J-hoplin1 <jhoplin7259@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "prisma": "^5.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.2.0"
+  }
+}
